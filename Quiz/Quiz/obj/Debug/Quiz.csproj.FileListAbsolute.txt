@@ -1,0 +1,7 @@
+C:\Users\U-19\RiderProjects\RandazzoExam\RandazzoExam\obj\Debug\RandazzoExam.csproj.AssemblyReference.cache
+C:\Users\U-19\RiderProjects\RandazzoExam\RandazzoExam\obj\Debug\RandazzoExam.csproj.SuggestedBindingRedirects.cache
+C:\Users\U-19\RiderProjects\RandazzoExam\RandazzoExam\obj\Debug\RandazzoExam.csproj.CoreCompileInputs.cache
+C:\Users\U-19\RiderProjects\RandazzoExam\RandazzoExam\bin\Debug\RandazzoExam.exe
+C:\Users\U-19\RiderProjects\RandazzoExam\RandazzoExam\bin\Debug\RandazzoExam.pdb
+C:\Users\U-19\RiderProjects\RandazzoExam\RandazzoExam\obj\Debug\RandazzoExam.exe
+C:\Users\U-19\RiderProjects\RandazzoExam\RandazzoExam\obj\Debug\RandazzoExam.pdb
